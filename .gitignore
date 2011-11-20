@@ -1,0 +1,8 @@
+*.gem
+pkg/*
+coverage
+doc
+.yardoc
+.idea
+tmp
+Gemfile.lock
